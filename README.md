@@ -7,7 +7,7 @@
 - Preferred Programming Language: C++
 
 ## Coding Profiles
-- LeetCode: [ATISHH_SINGH](https://leetcode.com/YourLeetCodeUserName/)
+- LeetCode: [ATISHA_SINGH](https://leetcode.com/YourLeetCodeUserName/)
 - HackerRank: [ATISHA_SINGH](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
